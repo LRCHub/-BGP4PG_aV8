@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Ace",
+  "base_artist": "CHiCO",
+  "createdAt": "2025-12-01T08:00:22.947711Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ace In The Hole",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/01_Ace_In_The_Hole_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ace In The Hole (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/02_Ace_In_The_Hole_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ace In The Hole (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/03_Ace_In_The_Hole_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ace Of Hearts",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/04_Ace_Of_Hearts_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ace of Hz",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/05_Ace_of_Hz_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ace of Hz",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/06_Ace_of_Hz_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ace of Hz - NYCPARTYINFO Remix",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/07_Ace_of_Hz_-_NYCPARTYINFO_Remix_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ace of Hz (NYCPARTYINFO remix)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/08_Ace_of_Hz_(NYCPARTYINFO_remix)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ace of Hz - Punks Jump Up Remix",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/09_Ace_of_Hz_-_Punks_Jump_Up_Remix_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ace of Hz (Punks Jump Up Remix)",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/10_Ace_of_Hz_(Punks_Jump_Up_Remix)_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ace of Hz - Punks Jump Up Dub Remix",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/11_Ace_of_Hz_-_Punks_Jump_Up_Dub_Remix_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ace of Hz (Punks Jump Up dub remix)",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/12_Ace_of_Hz_(Punks_Jump_Up_dub_remix)_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ace of Hz - Tiësto Remix",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/13_Ace_of_Hz_-_Tiësto_Remix_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ace of Hz (Tiësto Remix)",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/14_Ace_of_Hz_(Tiësto_Remix)_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ace of Hz - Tiésto Remix Radio Edit",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/15_Ace_of_Hz_-_Tiésto_Remix_Radio_Edit_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ace of Hz (Tiësto remix radio edit)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/16_Ace_of_Hz_(Tiësto_remix_radio_edit)_Ladytron.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ace of ace",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_ace_of_ace_UVERworld.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Ace of Asia",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_02_Ace_of_Asia_UVERworld.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Ace  of Asia",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_03_Ace_of_Asia_UVERworld.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Ace Of Spades",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_04_Ace_Of_Spades_UVERworld.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Ace",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_05_Ace_UVERworld.txt"
+    }
+  ]
+}
